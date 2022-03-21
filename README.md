@@ -1,3 +1,3 @@
 # Git Practice
 
-I am learning Git!!!!
+I am learning Git.
